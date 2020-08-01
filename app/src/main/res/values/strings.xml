@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="birthday_image">Birthday Image</string>
+    <string name="birthday_wishes_to">Happy Birthday DAD!</string>
+    <string name="birthday_wishes_from">From Bhramar</string>
+</resources>
